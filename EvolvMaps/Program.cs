@@ -10,6 +10,8 @@ namespace EvolvMaps
     {
         static void Main(string[] args)
         {
+            Test test = new EvolvMaps.Test();
+            test.Run();
         }
     }
 }
